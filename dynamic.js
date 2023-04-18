@@ -35,7 +35,6 @@ function run(){
         
     }
     table.append(head)
-    
     for(var i = 0;i < objects.length;i++)
     {
         var row=document.createElement("tr")
